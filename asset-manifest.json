@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ashraya/static/css/main.fe1140c7.css",
-    "main.js": "/ashraya/static/js/main.11d1e239.js",
+    "main.js": "/ashraya/static/js/main.ace68570.js",
     "index.html": "/ashraya/index.html",
     "main.fe1140c7.css.map": "/ashraya/static/css/main.fe1140c7.css.map",
-    "main.11d1e239.js.map": "/ashraya/static/js/main.11d1e239.js.map"
+    "main.ace68570.js.map": "/ashraya/static/js/main.ace68570.js.map"
   },
   "entrypoints": [
     "static/css/main.fe1140c7.css",
-    "static/js/main.11d1e239.js"
+    "static/js/main.ace68570.js"
   ]
 }
