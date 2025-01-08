@@ -1,0 +1,273 @@
+{
+  "Header": {
+    "title": "Welcome to Ashraya Interiors",
+    "paragraph": "Your Vision, Our Craftsmanship!"
+  },
+  "About": {
+    "paragraph": "At Ashraya Interiors, we don’t just design spaces; we craft experiences. Every project we undertake is a testament to our passion for creating interiors that inspire, comfort, and elevate. Whether it’s your dream home, a modern workspace, or a functional kitchen, our team transforms your vision into reality with unmatched expertise and attention to detail.",
+    "Why": [
+      "Innovative Designs",
+      "Tailored to Your Taste",
+      "Premium Craftsmanship",
+      "On-Time Delivery"
+    ],
+    "Why2": [
+      "Quality Beyond Compare",
+      "Innovative Solutions",
+      "Transparent Pricing",
+      "High-Quality Materials"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Wardrobe",
+      "largeImage": "img/portfolio/1.webp",
+      "smallImage": "img/portfolio/1.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/2.webp",
+      "smallImage": "img/portfolio/2.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/3.webp",
+      "smallImage": "img/portfolio/3.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/4.webp",
+      "smallImage": "img/portfolio/4.webp"
+    },
+    {
+      "title": "Living Room",
+      "largeImage": "img/portfolio/5.webp",
+      "smallImage": "img/portfolio/5.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/6.webp",
+      "smallImage": "img/portfolio/6.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/7.webp",
+      "smallImage": "img/portfolio/7.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/8.webp",
+      "smallImage": "img/portfolio/8.webp"
+    },
+    {
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/9.webp",
+      "smallImage": "img/portfolio/9.webp"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Living Room Interiors",
+      "text": "Elegant & Inviting Spaces, Lighting & Decor",
+      "image": "img/services/livingroom_icon.png",
+      "types" : [
+        {
+          "title" : "Elegant & Inviting Spaces: ",
+          "description" : "From cozy seating arrangements to statement decor, we design living rooms that impress and relax."
+        },
+        {
+          "title" : "Customized Furniture: ",
+          "description" : "Sofas, coffee tables, and entertainment units tailored to fit your style and space."
+        },
+        {
+          "title" : "Lighting & Decor: ",
+          "description" : "Ambient lighting, wall art, and curated accessories to complete the look."
+        }
+      ]
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Bedroom Interiors",
+      "image": "img/services/bed_icon.png",
+      "types" : [
+        {
+          "title" : "Serene & Stylish Retreats: ",
+          "description" : "Bedrooms designed for comfort, privacy, and peace."
+        },
+        {
+          "title" : "Wardrobe Solutions: ",
+          "description" : "Modular wardrobes with smart storage and sleek designs."
+        },
+        {
+          "title" : "Bespoke Themes: ",
+          "description" : "From minimalist to luxurious, tailored to your personality."
+        }
+      ]
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Modular Kitchens",
+      "image": "img/services/kitchen_icon.png",
+      "types" : [
+        {
+          "title" : "Efficient & Stunning Designs: ",
+          "description" : "Kitchens with smart layouts, premium materials, and seamless finishes."
+        },
+        {
+          "title" : "Smart Storage Solutions: ",
+          "description" : "Space-saving pull-outs, corner units, and pantry systems."
+        },
+        {
+          "title" : "Integrated Appliances: ",
+          "description" : "Built-in hobs, chimneys, and ovens for a clutter-free look."
+        },
+        {
+          "title" : "Kitchen Layouts: ",
+          "description" : "L-Shaped Kitchens, U-Shaped Kitchens, Island Kitchens, Open Kitchens & Parallel Kitchens"
+        }
+      ]
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Kids’ Room Designs",
+      "image": "img/services/kids_icon.png",
+      "types" : [
+        {
+          "title" : "Fun & Functional Spaces: ",
+          "description" : "Vibrant designs that spark creativity and ensure comfort."
+        },
+        {
+          "title" : "Smart Storage: ",
+          "description" : "Shelving and storage solutions for toys, books, and clothes."
+        },
+        {
+          "title" : "Age-Appropriate Themes: ",
+          "description" : "Customizable to suit your child’s growing needs."
+        }
+      ]
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Home Office Designs",
+      "image": "img/services/office_icon.png",
+     "types" : [
+        {
+          "title" : "Productive Workspaces: ",
+          "description" : "Ergonomic designs to keep you comfortable and focused."
+        },
+        {
+          "title" : "Stylish Furniture: ",
+          "description" : "Desks, chairs, and storage solutions for a clutter-free environment."
+        },
+        {
+          "title" : "Modern Aesthetics: ",
+          "description" : "Designs that seamlessly blend with your home’s overall theme."
+        }
+      ]
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Renovation & Makeovers",
+      "image": "img/services/renovation1_icon.png",
+      "types" : [
+        {
+          "title" : "Breathe New Life: ",
+          "description" : "Transform outdated spaces into modern, functional areas."
+        },
+        {
+          "title" : "Creative Upgrades: ",
+          "description" : "From wall finishes to furniture replacements."
+        },
+        {
+          "title" : "Budget-Friendly Options: ",
+          "description" : "Solutions tailored to your needs without breaking the bank."
+        }
+      ]
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Nagasandra, Bengaluru -560073",
+    "phone": "+919916518831",
+    "email": "info@ashrayainteriors.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-users",
+      "title": "Consultation & Discovery",
+      "text": "We start with an in-depth discussion to understand your needs, preferences, and vision for the space."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Concept Design",
+      "text": "Turning ideas into a tangible plan. Mood Boards & Themes, Space Planning & Initial 3D Visualization to help you see how your space will look."
+    },
+    {
+      "icon": "fa fa-thumbs-up",
+      "title": "Design Refinement",
+      "text": "Feedback Integration, Material Selection, Finalized 3D Renderings"
+    },
+    {
+      "icon": "fa fa-paper-plane",
+      "title": "Project Execution & Handover",
+      "text": "Procurement, Skilled Craftsmanship, Final Touches, Client Walkthrough & Post-Completion Support"
+    }
+  ]
+}
