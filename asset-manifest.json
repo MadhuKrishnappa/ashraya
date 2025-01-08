@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MadhuKrishnappa/ashraya/static/css/main.fe1140c7.css",
+    "main.js": "/MadhuKrishnappa/ashraya/static/js/main.11d1e239.js",
+    "index.html": "/MadhuKrishnappa/ashraya/index.html",
+    "main.fe1140c7.css.map": "/MadhuKrishnappa/ashraya/static/css/main.fe1140c7.css.map",
+    "main.11d1e239.js.map": "/MadhuKrishnappa/ashraya/static/js/main.11d1e239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1140c7.css",
+    "static/js/main.11d1e239.js"
+  ]
+}
