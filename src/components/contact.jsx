@@ -4,33 +4,40 @@ import React from "react";
 
 const initialState = {
   name: "",
-  email: "",
+  phoneNumber: "",
   message: "",
 };
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [{ name, phoneNumber: phoneNumber, message }, setState] = useState(initialState);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
   const clearState = () => setState({ ...initialState });
+
+  const [emailResponseMessage, setEmailResponseMessage] = useState("");
   
   
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, email, message);
+    console.log(name, phoneNumber, message);
     
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_h3f4hev", "template_i4kcmxd", e.target, "MRVB3vLYyHZVq7Cl6",
+        {
+        to_email: "info@ashrayainteriors.in"
+      })
       .then(
         (result) => {
           console.log(result.text);
+          setEmailResponseMessage("Email Sent Successfully");
           clearState();
         },
         (error) => {
+          setEmailResponseMessage("Error : " + error.text);
           console.log(error.text);
         }
       );
@@ -67,11 +74,11 @@ export const Contact = (props) => {
                   <div className="col-md-6">
                     <div className="form-group">
                       <input
-                        type="email"
-                        id="email"
-                        name="email"
+                        type="number"
+                        id="phoneNumber"
+                        name="phoneNumber"
                         className="form-control"
-                        placeholder="Email"
+                        placeholder="Phone Number"
                         required
                         onChange={handleChange}
                       />
@@ -95,6 +102,7 @@ export const Contact = (props) => {
                 <button type="submit" className="btn btn-custom btn-lg">
                   Send Message
                 </button>
+                <p>{emailResponseMessage}</p>
               </form>
             </div>
           </div>
@@ -153,7 +161,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 Ascendium Consulting Pvt Ltd. <br/> Design by{" Madhu Krishnappa "}
+            &copy; 2023 Ascendium Consulting Pvt Ltd. <br/> Design by{" Madhu Krishnappa "}
             
           </p>
         </div>
