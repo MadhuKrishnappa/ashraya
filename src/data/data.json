@@ -38,12 +38,6 @@
       "smallImage": "img/portfolio/w3.jpeg"
     },
     {
-      "id": 4,
-      "title": "Wardrobe",
-      "largeImage": "img/portfolio/w4.jpeg",
-      "smallImage": "img/portfolio/w4.jpeg"
-    },
-    {
       "id": 5,
       "title": "Wardrobe",
       "largeImage": "img/portfolio/w5.jpeg",
@@ -105,33 +99,45 @@
     },
     {
       "id": 15,
-      "title": "TV Unit",
+      "title": "Kitchen",
       "largeImage": "img/portfolio/k2.jpeg",
       "smallImage": "img/portfolio/k2.jpeg"
     },
     {
       "id": 16,
-      "title": "TV Unit",
+      "title": "Kitchen",
       "largeImage": "img/portfolio/k3.jpeg",
       "smallImage": "img/portfolio/k3.jpeg"
     },
     {
       "id": 17,
-      "title": "TV Unit",
+      "title": "Kitchen",
       "largeImage": "img/portfolio/k4.jpeg",
       "smallImage": "img/portfolio/k4.jpeg"
     },
     {
       "id": 18,
-      "title": "TV Unit",
+      "title": "Kitchen",
       "largeImage": "img/portfolio/k5.jpeg",
       "smallImage": "img/portfolio/k5.jpeg"
     },
     {
       "id": 19,
-      "title": "TV Unit",
+      "title": "Kitchen",
       "largeImage": "img/portfolio/k6.jpeg",
       "smallImage": "img/portfolio/k6.jpeg"
+    },
+    {
+      "id": 20,
+      "title": "Pooja Unit",
+      "largeImage": "img/portfolio/pooja.jpeg",
+      "smallImage": "img/portfolio/pooja.jpeg"
+    },
+    {
+      "id": 21,
+      "title": "Work Space",
+      "largeImage": "img/portfolio/su.jpeg",
+      "smallImage": "img/portfolio/su.jpeg"
     }
     
   ],
