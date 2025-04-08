@@ -20,50 +20,120 @@
   },
   "Gallery": [
     {
+      "id": 1,
       "title": "Wardrobe",
-      "largeImage": "img/portfolio/1.webp",
-      "smallImage": "img/portfolio/1.webp"
+      "largeImage": "img/portfolio/w1.jpeg",
+      "smallImage": "img/portfolio/w1.jpeg"
     },
     {
+      "id": 2,
+      "title": "Wardrobe",
+      "largeImage": "img/portfolio/w2.jpeg",
+      "smallImage": "img/portfolio/w2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Wardrobe",
+      "largeImage": "img/portfolio/w3.jpeg",
+      "smallImage": "img/portfolio/w3.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Wardrobe",
+      "largeImage": "img/portfolio/w4.jpeg",
+      "smallImage": "img/portfolio/w4.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Wardrobe",
+      "largeImage": "img/portfolio/w5.jpeg",
+      "smallImage": "img/portfolio/w5.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Wardrobe",
+      "largeImage": "img/portfolio/w6.jpeg",
+      "smallImage": "img/portfolio/w6.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Kitchen",
+      "largeImage": "img/portfolio/k7.jpeg",
+      "smallImage": "img/portfolio/k7.jpeg"
+    },
+    {
+      "id": 8,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/2.webp",
-      "smallImage": "img/portfolio/2.webp"
+      "largeImage": "img/portfolio/tv1.jpeg",
+      "smallImage": "img/portfolio/tv1.jpeg"
     },
     {
+      "id": 9,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/3.webp",
-      "smallImage": "img/portfolio/3.webp"
+      "largeImage": "img/portfolio/tv2.jpeg",
+      "smallImage": "img/portfolio/tv2.jpeg"
     },
     {
+      "id": 10,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/4.webp",
-      "smallImage": "img/portfolio/4.webp"
+      "largeImage": "img/portfolio/tv3.jpeg",
+      "smallImage": "img/portfolio/tv3.jpeg"
     },
     {
-      "title": "Living Room",
-      "largeImage": "img/portfolio/5.webp",
-      "smallImage": "img/portfolio/5.webp"
-    },
-    {
+      "id": 11,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/6.webp",
-      "smallImage": "img/portfolio/6.webp"
+      "largeImage": "img/portfolio/tv4.jpeg",
+      "smallImage": "img/portfolio/tv4.jpeg"
     },
     {
+      "id": 12,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/7.webp",
-      "smallImage": "img/portfolio/7.webp"
+      "largeImage": "img/portfolio/tv5.jpeg",
+      "smallImage": "img/portfolio/tv5.jpeg"
     },
     {
+      "id": 13,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/8.webp",
-      "smallImage": "img/portfolio/8.webp"
+      "largeImage": "img/portfolio/tv6.jpeg",
+      "smallImage": "img/portfolio/tv6.jpeg"
     },
     {
+      "id": 14,
+      "title": "Kitchen",
+      "largeImage": "img/portfolio/k1.jpeg",
+      "smallImage": "img/portfolio/k1.jpeg"
+    },
+    {
+      "id": 15,
       "title": "TV Unit",
-      "largeImage": "img/portfolio/9.webp",
-      "smallImage": "img/portfolio/9.webp"
+      "largeImage": "img/portfolio/k2.jpeg",
+      "smallImage": "img/portfolio/k2.jpeg"
+    },
+    {
+      "id": 16,
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/k3.jpeg",
+      "smallImage": "img/portfolio/k3.jpeg"
+    },
+    {
+      "id": 17,
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/k4.jpeg",
+      "smallImage": "img/portfolio/k4.jpeg"
+    },
+    {
+      "id": 18,
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/k5.jpeg",
+      "smallImage": "img/portfolio/k5.jpeg"
+    },
+    {
+      "id": 19,
+      "title": "TV Unit",
+      "largeImage": "img/portfolio/k6.jpeg",
+      "smallImage": "img/portfolio/k6.jpeg"
     }
+    
   ],
   "Services": [
     {
